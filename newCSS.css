@@ -1,0 +1,25 @@
+#header{
+  height:65px;
+}
+
+#side-panel{
+  background: url(https://snapcreator.netapp.com/sites/all/themes/basic/images/Octopus_image.jpg);
+
+}
+
+
+.top-sticker noedge{
+  top:80px;
+}
+
+.logo{
+  
+}
+
+#jenkins-head-icon{
+  background: url(http://www.netapp.com/us/static/images/header.logo.desktop.png)
+}
+
+#jenkins-name-icon{
+  background: url(https://raw.githubusercontent.com/gulianikunal/CSS/master/jenkins.png)
+}
