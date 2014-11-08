@@ -3,7 +3,7 @@
 }
 
 #side-panel{
-  background: url(https://snapcreator.netapp.com/sites/all/themes/basic/images/Octopus_image.jpg);
+  background-image: url(https://snapcreator.netapp.com/sites/all/themes/basic/images/Octopus_image.jpg) !important;
 
 }
 
@@ -17,9 +17,9 @@
 }
 
 #jenkins-head-icon{
-  background: url(http://www.netapp.com/us/static/images/header.logo.desktop.png)
+  background-image: url(http://www.netapp.com/us/static/images/header.logo.desktop.png) !important;
 }
 
 #jenkins-name-icon{
-  background: url(https://raw.githubusercontent.com/gulianikunal/CSS/master/jenkins.png)
+  background-image: url(https://raw.githubusercontent.com/gulianikunal/CSS/master/jenkins.png) !important;
 }
