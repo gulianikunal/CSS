@@ -8,7 +8,7 @@
 }
 
 
-.top-sticker noedge{
+.top-sticker.noedge{
   top:80px;
 }
 
@@ -16,10 +16,10 @@
   
 }
 
-#jenkins-head-icon{
+#jenkins-head-icon td > a{
   background-image: url(http://www.netapp.com/us/static/images/header.logo.desktop.png) !important;
 }
 
-#jenkins-name-icon{
+#jenkins-name-icon td > a{
   background-image: url(https://raw.githubusercontent.com/gulianikunal/CSS/master/jenkins.png) !important;
 }
